@@ -1,6 +1,6 @@
 button{
-    width: 100px;
-    height: 100px;
+    width: 75%;
+    height: 95%;
     border-radius: 50px;
     border: none;
     background-color: #444;
@@ -38,7 +38,7 @@ button:active{
     color: #ddd;
 }
 body{
-    margin: 0;
+    margin: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
